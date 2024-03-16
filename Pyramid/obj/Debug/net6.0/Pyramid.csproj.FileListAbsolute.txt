@@ -1,0 +1,15 @@
+C:\Users\Bics\source\repos\Pyramid\Pyramid\bin\Debug\net6.0\Pyramid.exe
+C:\Users\Bics\source\repos\Pyramid\Pyramid\bin\Debug\net6.0\Pyramid.deps.json
+C:\Users\Bics\source\repos\Pyramid\Pyramid\bin\Debug\net6.0\Pyramid.runtimeconfig.json
+C:\Users\Bics\source\repos\Pyramid\Pyramid\bin\Debug\net6.0\Pyramid.dll
+C:\Users\Bics\source\repos\Pyramid\Pyramid\bin\Debug\net6.0\Pyramid.pdb
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.csproj.AssemblyReference.cache
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.AssemblyInfoInputs.cache
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.AssemblyInfo.cs
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.dll
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\refint\Pyramid.dll
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.pdb
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\Pyramid.genruntimeconfig.cache
+C:\Users\Bics\source\repos\Pyramid\Pyramid\obj\Debug\net6.0\ref\Pyramid.dll
